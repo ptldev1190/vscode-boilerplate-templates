@@ -9,3 +9,4 @@
 
 ### React Typescript
 - Functional component
+- Functional Component with Storybook
